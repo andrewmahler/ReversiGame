@@ -1,1 +1,1 @@
-# ReversiGame
+This is an implementation of the game Reversi that I created in my artificial intelligence class. It uses a successor function to find all possible new game states that can be reached from a single game state, which allowed me to implement a score function and utilize techniques such as alpha-beta pruning in order to allow a player to make more optimal moves quicker. 
